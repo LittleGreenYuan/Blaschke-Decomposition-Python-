@@ -5,8 +5,11 @@
 > **The Matlab version of the program is derived from [Hau-Tieng Wu](https://github.com/hautiengwu/BlaschkeDecomposition) **
 ---
 Contribution of this project:
+
 [1] Blaschke decomposition based on python (non-numerical analytical solver).
+
 [2] Partial implementation of BKD decomposition based on added carriers.
+
 [3] Python version of instantaneous phase implementation for time-frequency analysis
 ---
 ### Applications
