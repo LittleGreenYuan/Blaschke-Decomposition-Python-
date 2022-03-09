@@ -15,7 +15,9 @@ Modal extraction of non-stationary signals is achieved by BKD for applications s
 
 ![](TFAfigure/y1.png) 
 ![](TFAfigure/y2.png) 
+
 A demonstration program for time-frequency analysis based on instantaneous phase is also provided.
+
 ![](TFAfigure/TFAbydePhase.png) 
 ---
 ### **Warning**
