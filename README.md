@@ -11,6 +11,7 @@ Contribution of this project:
 [2] Partial implementation of BKD decomposition based on added carriers.
 
 [3] Python version of instantaneous phase implementation for time-frequency analysis
+
 ---
 ### Applications
 
