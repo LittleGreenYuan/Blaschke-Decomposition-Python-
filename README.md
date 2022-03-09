@@ -4,7 +4,7 @@
 ---
 > **The Matlab version of the program is derived from [Hau-Tieng Wu](https://github.com/hautiengwu/BlaschkeDecomposition) **
 ---
-Contribution of this project:
+## Contribution
 
 [1] Blaschke decomposition based on python (non-numerical analytical solver).
 
